@@ -190,7 +190,7 @@ int main(int argc, char **argv){
                     }
                 }
             }
-        } /* end event loop */
+        }
 
         SDL_SetRenderDrawColor(rend, 200, 220, 255, 255);
         SDL_RenderClear(rend);
